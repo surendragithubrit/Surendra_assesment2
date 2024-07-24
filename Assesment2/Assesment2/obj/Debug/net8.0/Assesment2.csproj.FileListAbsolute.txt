@@ -1,0 +1,4 @@
+C:\.net\DotNet\Assesment2\Assesment2\obj\Debug\net8.0\Assesment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\DotNet\Assesment2\Assesment2\obj\Debug\net8.0\Assesment2.AssemblyInfoInputs.cache
+C:\.net\DotNet\Assesment2\Assesment2\obj\Debug\net8.0\Assesment2.AssemblyInfo.cs
+C:\.net\DotNet\Assesment2\Assesment2\obj\Debug\net8.0\Assesment2.csproj.CoreCompileInputs.cache
